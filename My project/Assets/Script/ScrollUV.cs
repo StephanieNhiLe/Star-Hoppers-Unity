@@ -6,9 +6,10 @@ public class ScrollUV : MonoBehaviour
 {
     void Update () {
 
-		MeshRenderer mr = GetComponent<MeshRenderer>();
-
-		Material mat = mr.material;
+		Rigidbody2D rb = GetComponent<Rigidbody>();
+		// MeshRenderer mr = GetComponent<MeshRenderer>();
+		Material mat = rb.material;
+		// Material mat = mr.material;
 
 		Vector2 offset = mat.mainTextureOffset;
 

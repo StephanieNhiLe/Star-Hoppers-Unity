@@ -2082,3 +2082,9 @@ Received Import Request.
   path: Assets/Skybox/[Main] Universe Skybox.mat
   artifactKey: Guid(81f714daf7144784b8a2f42f1cd30927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Skybox/[Main] Universe Skybox.mat using Guid(81f714daf7144784b8a2f42f1cd30927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8faec8617051954107f230c380f4a70') in 0.796516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 659.673640 seconds.
+  path: Assets/Script/ScrollUV.cs
+  artifactKey: Guid(2c8064851dc0e44589bb2b65f12831ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/ScrollUV.cs using Guid(2c8064851dc0e44589bb2b65f12831ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5e3fecf306a15ed1322350c3cab7eef') in 0.184577 seconds 
