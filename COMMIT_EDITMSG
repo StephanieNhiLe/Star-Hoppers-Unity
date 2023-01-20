@@ -1,0 +1,30 @@
+Venus scene controls - not functioning yet
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch Test-&-Merge
+# Your branch is up to date with 'origin/Test-&-Merge'.
+#
+# Changes to be committed:
+#	deleted:    Assets/Scenes/Venus.unity
+#	deleted:    Assets/Scenes/Venus.unity.meta
+#	deleted:    Assets/Script/EarthInfoController.cs
+#	deleted:    Assets/Script/EarthInfoController.cs.meta
+#	modified:   Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+#	modified:   Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset
+#	modified:   Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+#	modified:   Assets/XR/UserSimulationSettings/Resources/XRSimulationPreferences.asset
+#	modified:   Assets/XR/UserSimulationSettings/SimulationEnvironmentAssetsManager.asset
+#
+# Untracked files:
+#	Assets/Planets of the Solar System 3D/Geometry/Venus.mat
+#	Assets/Planets of the Solar System 3D/Geometry/Venus.mat.meta
+#	Assets/Scenes/Venus scene.meta
+#	Assets/Scenes/Venus scene/
+#	Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF 1.mat
+#	Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF 1.mat.meta
+#	Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF 2.mat
+#	Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF 2.mat.meta
+#	Assets/XR/UserSimulationSettings/SimulationEnvironmentAssetsManager 2.asset
+#	Assets/XR/UserSimulationSettings/SimulationEnvironmentAssetsManager 2.asset.meta
+#
