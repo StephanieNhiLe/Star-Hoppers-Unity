@@ -4,7 +4,31 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/[Main] Astronomy Scene.unity
+    guid: 47cd513b8c4397e4ca272a1ff269d933
+  - enabled: 1
+    path: Assets/Scenes/Jupiter.unity
+    guid: 9df1daa23e11e4b43a4e908728e94ed2
+  - enabled: 1
+    path: Assets/Scenes/Mars.unity
+    guid: 1309a08cdeeb54d9a81381b90345dba0
+  - enabled: 1
+    path: Assets/Scenes/Mercury.unity
+    guid: 137f512f4c96549589904251036e11e4
+  - enabled: 1
+    path: Assets/Scenes/Neptune.unity
+    guid: 666f2a75cd3b54eb5a5d85b1d5e17b4b
+  - enabled: 1
+    path: Assets/Scenes/Pluto.unity
+    guid: 402de4e872eaf483c8f5990588812c3b
+  - enabled: 1
+    path: Assets/Scenes/Saturn.unity
+    guid: d567256614bcf47b0b832746eeb25f06
+  - enabled: 1
+    path: Assets/Scenes/Uranus.unity
+    guid: 63cf250e7396f47d6bb8f5fa9481d6bd
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: acf6c19732c1e4906928b4f8ac04db4d, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 936fffdffe46a4d8497a720a4ac10dff, type: 2}
